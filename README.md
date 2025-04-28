@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey my name is Neo.<br>I am located in Berlin, Germany.<br>Mostly i do small projects about stuff i am interested in. <br><br>My biggest project is Lunar for geoguessr. It is a script<br>which has many helping features to give you the edge<br>above others. Feel free to join the discord below.
+Hey my name is Neo.<br>I am located in Germany.<br>Mostly i do small projects about stuff i am interested in. <br><br>My biggest project is Lunar for geoguessr. It is a script<br>which has many helping features to give you the edge<br>above others. Feel free to join the discord below.
 
 
 ## 🌐 Socials:
