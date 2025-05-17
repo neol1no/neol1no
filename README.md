@@ -3,9 +3,10 @@
 <div align="center">
     <img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" width="100px"/><br />
     <h2>I'm a developer</h2>
-    <h6>credit to cuzimstupi4</h6> <br> 
+    <a href="https://github.com/CuzImStupi4">credit to cuzimstupi4</a> <br>
 </div>
-
+<br>
+<br>
 <p>Most of my stuff is privated for obvious reasons, but that might change idk</p>
 <p>always doing random stuff :> </p>
 
