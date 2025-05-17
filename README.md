@@ -3,6 +3,7 @@
 <div align="center">
     <img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" width="100px"/><br />
     <h2>I'm a developer</h2>
+    <h6>credit to cuzimstupi4</h6> <br> 
 </div>
 
 <p>Most of my stuff is privated for obvious reasons, but that might change idk</p>
@@ -128,4 +129,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&customColorList=0,2,3,15&section=footer&fontAlign=0&fontAlignY=0&reversal=false">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=wee+woo+wee+woo+wee+woo.)](https://git.io/typing-svg)
-![](https://hit.yhype.me/github/profile?account_id=151248139)
+![]()
