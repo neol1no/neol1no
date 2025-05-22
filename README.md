@@ -24,10 +24,7 @@
 <h2 align="center">╰┈➤ Discord Status</h2>
 <p align="center"><a href="https://discord.com/users/1118534787351711834"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/1118534787351711834?bg=302c33"></a></p>
 
-<h2 align="center">╰┈➤ GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neol1no&theme=merko&no-frame=true&no-bg=true&margin-w=4">
-</p>
+
 
 <h2 align="center">╰┈➤ My favorite tools and technologies</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
