@@ -2,33 +2,34 @@
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" width="100px"/><br />
-    <h2>I'm a developer</h2>
-    <a href="https://github.com/CuzImStupi4">credit to cuzimstupi4</a> <br>
+    <h2>Hey, I'm Neo</h2>
+
 </div>
 <br>
 <br>
-<p>Most of my stuff is privated for obvious reasons, but that might change idk</p>
-<p>always doing random stuff :> </p>
+<p>Most of my stuff is privated because its either a project like Lunar where i actively work on or just some random stuff i tried doing and where i am embarrassed about :P </p> 
+<p>Maybe im going to make that stuff public at some point but who knows</p>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+grass+woooooooooooooooooooOOooooOOOoooooOoOoOooooh.)](https://git.io/typing-svg)
 
-<h2 align="center">💜 〣 Infos about me </h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=6022A4&center=true&width=435&lines=Escaping+the+Matrix.)](https://git.io/typing-svg)
+
+<h2 align="center">〣 about me 〣</h2>
 
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TaCumDu36N) lunar - geoguessr script
-- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@vibe.de)
-- ❤️ 19 years old
+- 19 years old
+- based in germany
 
 
-
-<h2 align="center">💻 〣 Discord Status</h2>
+<h2 align="center">〣 Discord Status 〣</h2>
 <p align="center"><a href="https://discord.com/users/1118534787351711834"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/1118534787351711834?bg=302c33"></a></p>
 
-<h2 align="center">🏆 〣 GitHub Trophies </h2>
+<h2 align="center">〣 GitHub Trophies 〣</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=neol1no&theme=merko&no-frame=true&no-bg=true&margin-w=4">
 </p>
 
-<h2 align="center">💻 〣 My favorite tools and technologies </h2>
+<h2 align="center">〣 My favorite tools and technologies 〣</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <table align="center">
     <tr>
@@ -116,7 +117,7 @@
   </table>
 </div>
 
-<h2 align="center">🎁 〣 GitHub Stats</h2>
+<h2 align="center">〣 GitHub Stats 〣</h2>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=neol1no&theme=dracula&hide_border=true" width="33%">
   <img src="https://github-readme-stats.vercel.app/api?username=neol1no&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="33%">
