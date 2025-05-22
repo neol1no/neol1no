@@ -14,22 +14,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=6022A4&center=true&width=435&lines=Escaping+the+Matrix.)](https://git.io/typing-svg)
 
-<h2 align="center">〣 about me 〣</h2>
+<h2 align="center">╰┈➤ about me</h2>
 
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TaCumDu36N) lunar - geoguessr script
 - 19 years old
 - based in germany
 
 
-<h2 align="center">〣 Discord Status 〣</h2>
+<h2 align="center">╰┈➤ Discord Status</h2>
 <p align="center"><a href="https://discord.com/users/1118534787351711834"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/1118534787351711834?bg=302c33"></a></p>
 
-<h2 align="center">〣 GitHub Trophies 〣</h2>
+<h2 align="center">╰┈➤ GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=neol1no&theme=merko&no-frame=true&no-bg=true&margin-w=4">
 </p>
 
-<h2 align="center">〣 My favorite tools and technologies 〣</h2>
+<h2 align="center">╰┈➤ My favorite tools and technologies</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <table align="center">
     <tr>
@@ -117,7 +117,7 @@
   </table>
 </div>
 
-<h2 align="center">〣 GitHub Stats 〣</h2>
+<h2 align="center">╰┈➤ GitHub Stats</h2>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=neol1no&theme=dracula&hide_border=true" width="33%">
   <img src="https://github-readme-stats.vercel.app/api?username=neol1no&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="33%">
