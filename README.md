@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&&&customColorList=0,2,3,15&section=header&fontAlign=0&fontAlignY=0&reversal=false">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontAlignY=0&fontAlign=0">
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" width="100px"/><br />
@@ -127,7 +127,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=neol1no&bg_color=1A1B1F&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="Activity graph">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&customColorList=0,2,3,15&section=footer&fontAlign=0&fontAlignY=0&reversal=false">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontAlignY=0&fontAlign=0&section=footer">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=wee+woo+wee+woo+wee+woo.)](https://git.io/typing-svg)
 ![]()
