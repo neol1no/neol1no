@@ -12,8 +12,6 @@
 <br>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&pause=1000&color=6022A4&center=true&width=435&lines=Escaping+the+Matrix.)](https://git.io/typing-svg)
-
 <h2 align="center">╰┈➤ about me</h2>
 
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TaCumDu36N) lunar - geoguessr script
