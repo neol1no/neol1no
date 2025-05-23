@@ -20,7 +20,7 @@
 
 
 <h2 align="center">╰┈➤ Discord Status</h2>
-<p align="center"><a href="https://discord.com/users/1118534787351711834"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/1118534787351711834?bg=302c33"></a></p>
+<p align="center"><a href="https://discord.com/users/1118534787351711834"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/1118534787351711834?bg=0e0e0e"></a></p>
 
 
 
