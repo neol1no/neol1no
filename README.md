@@ -24,7 +24,7 @@
 
 
 
-<h2 align="center">╰┈➤ My favorite tools and technologies</h2>
+<h2 align="center">╰┈➤ My tech <3 </h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <table align="center">
     <tr>
