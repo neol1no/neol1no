@@ -125,5 +125,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontAlignY=0&fontAlign=0&section=footer">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=wee+woo+wee+woo+wee+woo.)](https://git.io/typing-svg)
-![]()
+
