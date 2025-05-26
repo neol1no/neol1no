@@ -16,7 +16,7 @@
 <h2 align="center">╰┈➤ about me</h2>
 
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TaCumDu36N) lunar - geoguessr script
-- [![Github](https://img.shields.io/badge/Github-000000.svg?logo=github&logoColor=white)](https://neol1no.github.io) github pages
+- [![Github](https://img.shields.io/badge/Github-000000.svg?logo=github&logoColor=white)](https://neol1no.github.io)
 - 19 years old
 - based in germany
 
