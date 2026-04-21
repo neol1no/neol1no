@@ -51,7 +51,7 @@
         <br>Java
       </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/640px-Microsoft_.NET_logo.svg.png" alt=".NET" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="65" height="65" />
         <br>.NET
       </td>
       <td align="center" width="96">
@@ -59,8 +59,8 @@
         <br>C Sharp
       </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Vite" width="65" height="65" />
-        <br>Vite
+        <img src="https://skillicons.dev/icons?i=supabase" alt="Vite" width="65" height="65" />
+        <br>Supabase
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
@@ -89,7 +89,7 @@
         <br>Tailwind
       </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" alt="Electron.js" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=electron" alt="Electron.js" width="65" height="65" />
         <br>Electron.js
       </td>
     </tr>
@@ -105,10 +105,6 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="65" height="65" />
         <br>VSCode
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-        <br>Docker
       </td>
     </tr>
   </table>
