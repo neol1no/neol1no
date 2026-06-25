@@ -110,17 +110,6 @@
   </table>
 </div>
 
-<h2 align="center">╰┈➤ GitHub Stats</h2>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=neol1no&theme=dracula&hide_border=true" width="33%">
-  <img src="https://github-readme-stats.vercel.app/api?username=neol1no&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="33%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neol1no&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="33%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neol1no&bg_color=1A1B1F&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="100%" alt="Activity graph">
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontAlignY=0&fontAlign=0&section=footer">
 
 
