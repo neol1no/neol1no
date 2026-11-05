@@ -1,9 +1,10 @@
 # Settings: https://github.com/pedrocatalao/github-cool-readme#settings
 user: neol1no
-style: oled
+style: classic
 color: amber
 matrix: true
 transparent: false
 include:
   private: true
   orgs: true
+cards: [summary, languages]
