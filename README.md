@@ -17,8 +17,8 @@
 
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TaCumDu36N) lunar - geoguessr script
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ztCrxgXDuE) lumen - 26.1 client
-- [![Github](https://img.shields.io/badge/Github-000000.svg?logo=github&logoColor=white)](https://neol1no.github.io)
-- 20 years old
+- [![Github](https://img.shields.io/badge/Github-000000.svg?logo=github&logoColor=white)](https://neol1no.github.io) github pages
+- 21 years old
 - based in germany
 
 
