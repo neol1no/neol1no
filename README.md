@@ -8,7 +8,7 @@
 </div>
 <br>
 <br>
-<p>Most of my stuff is privated because its either a project like Lunar where i actively work on or just some random stuff i tried doing and where i am embarrassed about :P </p> 
+<p>Most of my stuff is privated because its either a project like Lumen (or lunar...) where i actively work on or just some random stuff i tried doing and where i am embarrassed about :P </p> 
 <p>Maybe im going to make that stuff public at some point but who knows</p>
 <br>
 
@@ -16,6 +16,7 @@
 <h2 align="center">╰┈➤ about me</h2>
 
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TaCumDu36N) lunar - geoguessr script
+- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ztCrxgXDuE) lumen - 26.1 client
 - [![Github](https://img.shields.io/badge/Github-000000.svg?logo=github&logoColor=white)](https://neol1no.github.io)
 - 20 years old
 - based in germany
